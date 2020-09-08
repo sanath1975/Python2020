@@ -1,0 +1,78 @@
+git-int.txt
+
+Sanjeev-Python-8:Am
+Weekdays
+8-9-2020 class Files
+Sanjeev Classes March
+•
+10:06 AM
+
+git-intro.txt
+Text
+Class comments
+
+
+8-9-2020 class Files
+# GIT -- git is nothing but code version controller...
+
+# Repositories:- Its a folder where we have all the files and folders.. 
+    # 1) Local Repository :- Repository that is created inside our localhost..
+    # 2) Server Repository :- Repository that is created on git hub account..
+
+
+# 1st developer -- login
+# 2nd developer -- logout
+# 3rd developer -- forgot password
+
+
+# step1:-
+    # Select the folder for git..
+# Step2:-
+    # Initialize the git in the folder..
+    # git init 
+
+# Step3:- 
+    # Status of my folder
+    # git status 
+
+# step4:- 
+    # adding the files into the local Repository.
+    # git add filename
+    # git add .
+
+# step5:- 
+    # commiting the chnages..
+    # git commit -m "Your Message"
+    # git commit -m "Adding the new file first time"
+
+# step6:-
+    # adding the git hub credential to the local Repository..
+    # git config --global user.email "your email"
+    # git config --global user.name "your name"
+
+# step7:
+    # linking local Repository with Server Repository
+    # git remote add origin github-Repository link..
+    # git remote add origin https://github.com/sanjureddy5563/python8amjuly.git
+
+# step8:-
+    # pushing your code to the server Repository..
+    # git push -u origin master
+
+# step9:-
+    # pulling the updated code from the server..
+    # git pull origin master
+
+# step10:
+    # TO see the chnages we have made before adding it in the local Repository.
+    # git diff filename
+
+# step11:-
+    # getting the code for first time from github Repository..
+    # git clone https://github.com/sanjureddy5563/vyavasayam.git
+
+# step12:
+    # removing a file from the git.
+    # git rm filename..
+git-intro.txt
+Displaying git-intro.txt.
